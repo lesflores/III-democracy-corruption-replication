@@ -42,9 +42,9 @@ The script will:
 |----------|--------|------|
 | `v2x_rule`, `v2x_corr`, `v2x_jucon`, + 8 more | V-Dem | PCA inputs → III index |
 | `v2x_polyarchy` | V-Dem | Predictor (democracy) |
-| `conflicto` | — | Predictor (armed conflict) |
+| `conflicto` | HIIK | Predictor (armed conflict) |
 | `NY.GDP.PCAP.PP.KD` | World Bank | Control (log GDP per capita) |
-| `country_name`, `year` | — | Grouping / time |
+| `country_name`, `year` | V-Dem | Grouping / time |
 
 ---
 
@@ -54,5 +54,3 @@ The script will:
 **Arturo Azael López Estrello**
 
 ---
-
-*Questions or issues? Open a GitHub Issue.*
