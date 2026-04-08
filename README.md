@@ -9,7 +9,7 @@
 | File | Description |
 |------|-------------|
 | `datos_COC_III.xlsx` | Panel dataset. Sheet `datos`: country-year observations with V-Dem indicators and conflict variable. Sheet `variables`: codebook. |
-| `modelos_COC_III_R.r` | Full R script: PCA-based index construction (III) + multilevel models + diagnostics. |
+| `modelos_COC_III.r` | Full R script: PCA-based index construction (III) + multilevel models + diagnostics. |
 
 ---
 
@@ -50,7 +50,6 @@ The script will:
 
 ## Authors
 
-**Lesly Flores**   
-**Arturo Azael López Estrello**
+**Lesly Flores** - **Arturo Azael López Estrello**
 
 ---
